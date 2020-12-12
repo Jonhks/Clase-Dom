@@ -1,0 +1,25 @@
+.grande{
+  width: 400px;
+}
+
+.titulo{
+  border: 1px solid navy;
+  background-color: #cccccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.subtitulo{
+  text-align: center;
+  color: blue;
+  font-size: 3rem;
+}
+
+.tituloGrande{
+  font-size: 60px;
+}
+
+.span{
+  font-size: 90px;
+  color: cyan;
+}
